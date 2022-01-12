@@ -1,0 +1,6 @@
+- "Today I learned" の略
+- 海外で流行っているらしい
+    - [GithubでTILというリポジトリが流行りつつあるのかもしれない - 生涯未熟](https://syossan.hateblo.jp/entry/2016/02/16/144305)
+- 会社の同僚がはじめていたと紹介していたので、私もはじめてみる
+- 参考
+    - [Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する - Qiita](https://qiita.com/nemui_/items/239335b4ed0c3c797add)
