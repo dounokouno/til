@@ -1,0 +1,3 @@
+- ウィンドウを水平に分割(同じプロファイル): ⌘ + D
+- 別のペインに移動(順番に): ⌘ + ] , ⌘ + [
+- 参考: [iTerm2 チートシート - Qiita](https://qiita.com/MaasaMiya/items/d21894352cdb5a3430bd)
