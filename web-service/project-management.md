@@ -1,0 +1,6 @@
+- ClickUp
+  - https://clickup.com
+  - 無料でも割と色々な機能を使えて良さげ
+  - デザインも素敵。使いやすそう。
+  - Asana っぽさがある気がする。
+    - 参考: https://asana.com
