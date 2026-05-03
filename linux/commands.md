@@ -35,6 +35,12 @@ $ cat /etc/os-release # /usr/lib/os-release のエイリアス
 $ cat /etc/redhat-release # almalinux-release のエイリアス
 ```
 
+## カーネルバージョン
+
+```console
+$ uname -r
+```
+
 ## CPU 情報
 
 - TODO: この辺りを書いている途中
